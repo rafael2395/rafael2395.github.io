@@ -1,6 +1,6 @@
 {
-    "name": "soundbox",
-    "short_name": "soundbox",
+    "name": "Soundbox",
+    "short_name": "Soundbox",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
