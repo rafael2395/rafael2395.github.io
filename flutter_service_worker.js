@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "93d6a5b2353e7be46334c4075d537624",
-"index.html": "da0d1967680423851048663c6731fa15",
-"/": "da0d1967680423851048663c6731fa15",
-"main.dart.js": "47b2dcf27cad698b5dac1b32d2913cdd",
+"index.html": "f1822939281b169a27f75ecd9e98cd40",
+"/": "f1822939281b169a27f75ecd9e98cd40",
+"main.dart.js": "57ba62e1d600fdb996e46f9fef25c424",
 "flutter.js": "0816e65a103ba8ba51b174eeeeb2cb67",
 "favicon.png": "1758c1e8b7a46868d50054e0f84ca5b7",
 "icons/Icon-192.png": "9dc0bfe7dcbbbb26b6ad49c235914760",
@@ -27,10 +27,7 @@ const RESOURCES = {
 "assets/assets/images/Natur.jpg": "cafa6516f06fd2c86e3598276ebae0b0",
 "assets/assets/sounds/Tiere_Bellen.mp3": "cd57193ff5454fc7330023621aaee0b5",
 "assets/assets/sounds/Tiere_Gezwitscher.mp3": "059c4554e54b755bf6126b9796e60da7",
-"assets/assets/sounds/Katze.mp3": "61f1c874070fa4765870caecb89e5139",
-"assets/assets/sounds/Vogelgezwischer.mp3": "059c4554e54b755bf6126b9796e60da7",
 "assets/assets/sounds/Tiere_Miauen.mp3": "61f1c874070fa4765870caecb89e5139",
-"assets/assets/sounds/Bellen.mp3": "cd57193ff5454fc7330023621aaee0b5",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
