@@ -4,8 +4,8 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "93d6a5b2353e7be46334c4075d537624",
-"index.html": "1514347dcc915d85c932570c4d386b21",
-"/": "1514347dcc915d85c932570c4d386b21",
+"index.html": "881063ee4af04d9a22dc4cb10356f7c7",
+"/": "881063ee4af04d9a22dc4cb10356f7c7",
 "main.dart.js": "2686275833a38dc93e2a0b2d7fdc084f",
 "flutter.js": "0816e65a103ba8ba51b174eeeeb2cb67",
 "favicon.png": "1758c1e8b7a46868d50054e0f84ca5b7",
@@ -36,8 +36,8 @@ const RESOURCES = {
 "assets/assets/sounds/Kinder_Spieluhr.mp3": "11df74d1b61b7eb7b545f2582aa7796e",
 "assets/assets/sounds/Musik_Dramatische%2520Musik.mp3": "95dc3543a5d8580fb62f847e4496ce00",
 "assets/assets/sounds/Kinder_Spielplatz.mp3": "1ecdfd1407bc4ea451a60e7cf0cadb2c",
-"assets/assets/sounds/Spezialeffekte_Traum.mp3": "68fd6f61e2aeeb628cc7285a57340ae8",
-"assets/assets/sounds/Spezialeffekte_Vorbeihuschen.mp3": "6ea9bc6211dc1cd3b5f10193166b92a4",
+"assets/assets/sounds/Spezialeffekte_Traum.mp3": "822182523ddd163c8907dfd1909ebb06",
+"assets/assets/sounds/Spezialeffekte_Vorbeihuschen.mp3": "a71ce35310b0476d58a60c1ae38b59f0",
 "assets/assets/sounds/Laufen_Schritte%2520im%2520Wasser.mp3": "83abaf3604805498b0d03a40ff897472",
 "assets/assets/sounds/Fortbewegungsmittel_Auto%2520springt%2520nicht%2520an.mp3": "e68c8ad787aa2c299d243a8cc757dbc5",
 "assets/assets/sounds/Spezialeffekte_Wind.mp3": "299d2a3b0e1deaa8e572d09113265916",
