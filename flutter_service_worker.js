@@ -4,8 +4,8 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "93d6a5b2353e7be46334c4075d537624",
-"index.html": "c8822a7d29c6f302eca4681c360cce83",
-"/": "c8822a7d29c6f302eca4681c360cce83",
+"index.html": "e7dfa3d7f03c00abd00cd46994306441",
+"/": "e7dfa3d7f03c00abd00cd46994306441",
 "main.dart.js": "2686275833a38dc93e2a0b2d7fdc084f",
 "flutter.js": "0816e65a103ba8ba51b174eeeeb2cb67",
 "favicon.png": "1758c1e8b7a46868d50054e0f84ca5b7",
@@ -26,7 +26,7 @@ const RESOURCES = {
 "assets/assets/images/Spezialeffekte.jpg": "782989687a19f85b16b2f00b853bfab2",
 "assets/assets/images/S%25C3%25BC%25C3%259Figkeiten.jpg": "9efa7a72f714377b6234550a49aceb8f",
 "assets/assets/sounds/S%25C3%25BC%25C3%259Figkeiten_Mhhhh.mp3": "4ebecd339331f53817f1036236f82c12",
-"assets/assets/sounds/Musik_Lustige%2520Musik.mp3": "a10f8331f3506dc4de2fbd7526d9f15a",
+"assets/assets/sounds/Musik_Lustige%2520Musik.mp3": "30c60243b9ec7aa03e3699c76fd5b865",
 "assets/assets/sounds/Laufen_Schnelles%2520Laufen.mp3": "80d6c95e2840861bdace47339e759a79",
 "assets/assets/sounds/Spezialeffekte_Schnarchen.mp3": "1872d26c9f038e30992d7ab34e339fe3",
 "assets/assets/sounds/Musik_Ruhige%2520Musik.mp3": "62acb8b067bc31f2fe7106ff2aa73a2c",
